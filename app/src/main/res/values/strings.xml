@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iQR</string>
+    <string name="account_id">Account ID</string>
+    <string name="generate">Generate</string>
+    <string name="scan">Scan</string>
+    <string name="imgContent">THIS IS IT!</string>
+    <string name="toastHelp">Help in top right corner</string>
+</resources>
